@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://mdmegha1999.github.io/csb-dxg2v1/static/css/main.2aefe259.chunk.css",
-    "main.js": "https://mdmegha1999.github.io/csb-dxg2v1/static/js/main.80254f2c.chunk.js",
-    "main.js.map": "https://mdmegha1999.github.io/csb-dxg2v1/static/js/main.80254f2c.chunk.js.map",
+    "main.js": "https://mdmegha1999.github.io/csb-dxg2v1/static/js/main.6491dcf9.chunk.js",
+    "main.js.map": "https://mdmegha1999.github.io/csb-dxg2v1/static/js/main.6491dcf9.chunk.js.map",
     "runtime-main.js": "https://mdmegha1999.github.io/csb-dxg2v1/static/js/runtime-main.77795716.js",
     "runtime-main.js.map": "https://mdmegha1999.github.io/csb-dxg2v1/static/js/runtime-main.77795716.js.map",
-    "static/js/2.5f84c964.chunk.js": "https://mdmegha1999.github.io/csb-dxg2v1/static/js/2.5f84c964.chunk.js",
-    "static/js/2.5f84c964.chunk.js.map": "https://mdmegha1999.github.io/csb-dxg2v1/static/js/2.5f84c964.chunk.js.map",
+    "static/js/2.1958baa2.chunk.js": "https://mdmegha1999.github.io/csb-dxg2v1/static/js/2.1958baa2.chunk.js",
+    "static/js/2.1958baa2.chunk.js.map": "https://mdmegha1999.github.io/csb-dxg2v1/static/js/2.1958baa2.chunk.js.map",
     "index.html": "https://mdmegha1999.github.io/csb-dxg2v1/index.html",
     "static/css/main.2aefe259.chunk.css.map": "https://mdmegha1999.github.io/csb-dxg2v1/static/css/main.2aefe259.chunk.css.map",
-    "static/js/2.5f84c964.chunk.js.LICENSE.txt": "https://mdmegha1999.github.io/csb-dxg2v1/static/js/2.5f84c964.chunk.js.LICENSE.txt"
+    "static/js/2.1958baa2.chunk.js.LICENSE.txt": "https://mdmegha1999.github.io/csb-dxg2v1/static/js/2.1958baa2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.77795716.js",
-    "static/js/2.5f84c964.chunk.js",
+    "static/js/2.1958baa2.chunk.js",
     "static/css/main.2aefe259.chunk.css",
-    "static/js/main.80254f2c.chunk.js"
+    "static/js/main.6491dcf9.chunk.js"
   ]
 }
